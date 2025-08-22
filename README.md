@@ -33,9 +33,9 @@ Este é um repositório para fins de estudo. Se você é um colega de classe, si
 
 Gabriel Henrry SIlva De Oliveira
 
-GitHub https://github.com/Henrryznn
+**GitHub:** https://github.com/Henrryznn
 
-linkedin https://www.linkedin.com/in/gabriel-henrry-1a911a317/
+**Linkedin:** https://www.linkedin.com/in/gabriel-henrry-1a911a317/
 
 ---
 
