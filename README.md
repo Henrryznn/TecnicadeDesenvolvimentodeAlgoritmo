@@ -32,8 +32,10 @@ Este é um repositório para fins de estudo. Se você é um colega de classe, si
 ## 📝 Autor
 
 Gabriel Henrry SIlva De Oliveira
-https://github.com/Henrryznn
-https://www.linkedin.com/in/gabriel-henrry-1a911a317/
+
+GitHub https://github.com/Henrryznn
+
+linkedin https://www.linkedin.com/in/gabriel-henrry-1a911a317/
 
 ---
 
