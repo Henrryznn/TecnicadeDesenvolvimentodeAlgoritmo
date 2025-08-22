@@ -1,6 +1,6 @@
 # Técnica de Desenvolvimento de Algoritmos
 
-Este repositório contém os projetos, exercícios e materiais de estudo da disciplina de **Técnica de Desenvolvimento de Algoritmos**, ministrada na [UDF].
+Este repositório contém os projetos, exercícios e materiais de estudo da disciplina de **Técnica de Desenvolvimento de Algoritmos**, ministrada na UDF.
 
 A disciplina tem como objetivo principal solidificar o conhecimento em lógica de programação, análise e projeto de algoritmos, bem como a implementação de soluções eficientes e otimizadas para problemas computacionais.
 
@@ -16,9 +16,9 @@ O repositório está organizado em pastas que correspondem a cada tópico ou uni
 
 Os códigos e projetos foram desenvolvidos utilizando as seguintes tecnologias:
 
-- **Linguagem de Programação:** [C++, Python, Java]
-- **IDE/Editor:** [VS Code, PyCharm, Eclipse]
-- **Ferramentas Adicionais:** [Git, GitHub, etc.]
+- **Linguagem de Programação:** C++, Python, Java
+- **IDE/Editor:** VS Code, PyCharm, Eclipse
+- **Ferramentas Adicionais:** Git, GitHub, etc.
 
 ## 🤝 Contribuição
 
@@ -31,12 +31,12 @@ Este é um repositório para fins de estudo. Se você é um colega de classe, si
 
 ## 📝 Autor
 
-[Gabriel Henrry SIlva De Oliveira]
-[https://github.com/Henrryznn]
-[https://www.linkedin.com/in/gabriel-henrry-1a911a317/]
+Gabriel Henrry SIlva De Oliveira
+https://github.com/Henrryznn
+https://www.linkedin.com/in/gabriel-henrry-1a911a317/
 
 ---
 
 **Agradecimentos:**
 
-Ao professor [Kadidja Valeria] pela excelente condução da disciplina e aos colegas por tornarem o aprendizado colaborativo e enriquecedor.
+Ao professor Kadidja Valeria pela excelente condução da disciplina e aos colegas por tornarem o aprendizado colaborativo e enriquecedor.
