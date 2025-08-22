@@ -31,12 +31,12 @@ Este é um repositório para fins de estudo. Se você é um colega de classe, si
 
 ## 📝 Autor
 
-[Seu Nome Completo]
-[Link para seu perfil do GitHub, se desejar]
-[Link para seu LinkedIn, se desejar]
+[Gabriel Henrry SIlva De Oliveira]
+[https://github.com/Henrryznn]
+[https://www.linkedin.com/in/gabriel-henrry-1a911a317/]
 
 ---
 
 **Agradecimentos:**
 
-Ao professor [Nome do Professor] pela excelente condução da disciplina e
+Ao professor [Kadidja Valeria] pela excelente condução da disciplina e aos colegas por tornarem o aprendizado colaborativo e enriquecedor.
