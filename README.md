@@ -31,7 +31,7 @@ Este é um repositório para fins de estudo. Se você é um colega de classe, si
 
 ## 📝 Autor
 
-Gabriel Henrry SIlva De Oliveira
+Gabriel Henrry Silva De Oliveira
 
 **GitHub:** https://github.com/Henrryznn
 
