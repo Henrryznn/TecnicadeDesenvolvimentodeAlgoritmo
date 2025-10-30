@@ -41,4 +41,4 @@ Gabriel Henrry Silva De Oliveira
 
 **Agradecimentos:**
 
-Ao professor Kadidja Valeria pela excelente condução da disciplina e aos colegas por tornarem o aprendizado colaborativo e enriquecedor.
+A professora Kadidja Valeria pela excelente condução da disciplina e aos colegas por tornarem o aprendizado colaborativo e enriquecedor.
